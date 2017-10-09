@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1471869870 source:c:\users\toshiba-pc\desktop\chat_bot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1471882145 source:c:\users\toshiba-pc\desktop\c-projects\chat_bot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1471878545 source:d:\c-projects\chat_bot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
